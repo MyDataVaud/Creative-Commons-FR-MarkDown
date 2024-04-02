@@ -1,4 +1,8 @@
 Réplique de la source depuis un git privé: https://git.vulgarisons.info/raghnarok/CreativeCommons-Markdown-FR/src/branch/master avec nos remerciements.
+A noter qu'il existe d'aures versions de licences de partage de données, comme la licence ouverte pour l'administration publique en France:
+* https://github.com/MyDataVaud/licence-ouverte/blob/master/LO.md
+Similaire à CC-BY-SA mais simplifié.
+
 # Creative Commons Markdown Français
 
 [Creative Commons](https://creativecommons.org) propose une liste de licenses
