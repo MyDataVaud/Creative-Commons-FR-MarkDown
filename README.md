@@ -1,3 +1,4 @@
+Réplique de la source depuis un git privé: https://git.vulgarisons.info/raghnarok/CreativeCommons-Markdown-FR/src/branch/master avec nos remerceiements.
 # Creative Commons Markdown Français
 
 [Creative Commons](https://creativecommons.org) propose une liste de licenses
